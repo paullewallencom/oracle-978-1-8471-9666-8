@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<catalog> 
+<journal title="Oracle Magazine" publisher="Oracle 
+Publishing" edition="September-October 2008">
+  <article section="FEATURES">
+    <title>Share 2.0</title>
+    <author>Alan Joch</author> 
+   </article>
+</journal>
+<journal title="Oracle Magazine" publisher="Oracle Publishing" 
+  edition="September-October 2008">
+  <article section="ORACLE DEVELOPER">
+    <title>Task and You Shall Receive</title>
+    <author>Steve Muench</author> 
+   </article>
+ </journal>
+</catalog>

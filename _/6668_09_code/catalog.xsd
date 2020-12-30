@@ -1,0 +1,24 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+  <xsd:element name="catalog" type="catalogType"/> 
+  <xsd:complexType name="catalogType"> 
+    <xsd:sequence> 
+      <xsd:element name="journal" type="journalType" minOccurs="0" maxOccurs="unbounded"/> 
+    </xsd:sequence> 
+    <xsd:attribute name="title" type="xsd:string"/> 
+    <xsd:attribute name="publisher"  type="xsd:string"/> 
+  </xsd:complexType> 
+
+  <xsd:complexType name="journalType"> 
+    <xsd:sequence> 
+      <xsd:element name="article" type="articleType" minOccurs="0" maxOccurs="unbounded"/> 
+    </xsd:sequence> 
+    <xsd:attribute name="date" type="xsd:string"/> 
+  </xsd:complexType> 
+  <xsd:complexType name="articleType"> 
+    <xsd:sequence> 
+      <xsd:element name="title" type="xsd:string"/> 
+      <xsd:element name="author" type="xsd:string"/> 
+    </xsd:sequence> 
+    <xsd:attribute name="section" type="xsd:string"/> 
+  </xsd:complexType> 
+</xsd:schema> 

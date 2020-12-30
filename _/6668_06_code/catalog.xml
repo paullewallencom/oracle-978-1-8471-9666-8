@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<catalog title="Oracle Magazine" publisher="Oracle 
+Publishing" edition="March-April 2008"> 
+<journal section="Oracle Developer">
+  <article>
+    <title>Declarative Data Filtering</title>
+    <author>Steve Muench</author> 
+   </article>
+ </journal>
+
+<journal section="Technology">
+  <article>
+    <title>Oracle Database 11g Redux</title>
+    <author>Tom Kyte</author> 
+   </article>
+</journal>
+</catalog>

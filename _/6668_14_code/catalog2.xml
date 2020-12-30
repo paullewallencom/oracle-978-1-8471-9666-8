@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--A Oracle Magazine Catalog--> 
+<catalog  title="Oracle Magazine" publisher="Oracle Publishing"> 
+
+  <magazine date="March-April 2008"> 
+  <article>
+    <title>Declarative Data Filtering</title>
+    <author>Steve Muench</author> 
+   </article>
+  </magazine>
+</catalog>
+

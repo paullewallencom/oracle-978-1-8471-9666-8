@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'windows-1252'?>
+<catalog title="Oracle Magazine" publisher="Oracle Publishing">
+ <journal date="March-April 2008">
+  <article section="ORACLE DEVELOPER">
+   <title>Declarative Data Filtering</title>
+   <author>Steve Muench</author>
+  </article>
+ </journal>
+ <journal date="May-June 2008">
+  <article section="ORACLE DEVELOPER">
+   <title>On the PGA and Indexing Collections</title>
+   <author>Steven Feuerstein</author>
+  </article>
+ </journal>
+</catalog>

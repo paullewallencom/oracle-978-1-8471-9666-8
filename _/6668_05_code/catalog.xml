@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<catalog>
+  <journal title="Oracle Magazine" publisher="Oracle Publishing" edition="March-April 2008">
+    <article section="ORACLE DEVELOPER">
+      <title>Declarative Data Filtering</title>
+      <author>Steve Muench</author>
+    </article>
+  </journal>
+  <journal title="Oracle Magazine" publisher="Oracle Publishing" edition="November-December 2008">
+    <article section="COMMENT">
+      <title>Application Server Convergence</title>
+      <author>David Baum</author>
+    </article>
+  </journal>
+</catalog>

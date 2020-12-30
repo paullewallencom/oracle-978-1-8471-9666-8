@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+   <journal>
+      <journal-title>Oracle Magazine</journal-title>
+      <publisher>Oracle Publishing</publisher>
+      <section>COMMENT</section>
+      <edition>November-December 2008</edition>
+      <title>Application Server Convergence</title>
+      <author>David Baum</author>
+   </journal>
+   <journal>
+      <journal-title>Oracle Magazine</journal-title>
+      <publisher>Oracle Publishing</publisher>
+      <section>Technology</section>
+      <edition>March-April 2008</edition>
+      <title>Oracle Database 11g Redux</title>
+      <author>Tom Kyte</author>
+   </journal>
+</catalog>
+

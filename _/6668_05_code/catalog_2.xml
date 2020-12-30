@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<catalog  title="Oracle Magazine" publisher="Oracle Publishing"> 
+  <journal date="November-December 2008 "> 
+     <article section="COMMENT">    
+       <title>Application Server Convergence</title>    
+       <author>David Baum</author>   
+     </article>  
+  </journal>
+</catalog>

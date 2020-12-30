@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" ?><catalog> 
+<journal  edition="March-April 2008">
+  <article section="Technology">
+    <title>Oracle Database 11g Redux</title>
+    <author>Tom Kyte</author> 
+   </article>
+</journal>
+<journal  edition="March-April 2008">
+  <article section="ORACLE DEVELOPER">
+    <title>Declarative Data Filtering</title>
+    <author>Steve Muench</author> 
+   </article>
+</journal>
+<journal></journal>
+</catalog>

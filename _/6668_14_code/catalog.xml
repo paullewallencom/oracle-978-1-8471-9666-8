@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--A Oracle Magazine Catalog--> 
+<catalog  title="Oracle Magazine" publisher="Oracle Publishing"> 
+
+  <magazine date="September-October 2008"> 
+  <article>
+    <title>Share 2.0</title>
+    <author>Alan Joch</author> 
+   </article>
+  <article>
+    <title>Task and You Shall Receive</title>
+    <author>Steve Muench</author> 
+   </article>
+  
+  </magazine>
+  <magazine date="March-April 2008"> 
+  <article>
+    <title>Oracle Database 11g Redux</title>
+    <author>Tom Kyte</author> 
+   </article>
+  <article>
+    <title>Declarative Data Filtering</title>
+    <author>Steve Muench</author> 
+   </article>
+
+  </magazine>
+</catalog>
+

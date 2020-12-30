@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<catalog>
+   <journal:journal journal:title="Oracle Magazine" journal:publisher="Oracle Publishing" journal:edition="March-April 2008" xmlns:journal="http://xdk.com/catalog/journal">
+      <journal:article journal:section="Oracle Developer">
+     <journal:title>Declarative Data Filtering</journal:title>
+         <journal:author>Steve Muench</journal:author>
+      </journal:article> 
+   </journal:journal>
+   <journal title="Oracle Magazine" publisher="Oracle Publishing" edition="September-October 2008 ">
+      <article section="FEATURES">
+         <title>Share 2.0</title>
+         <author>Alan Joch</author>
+      </article>
+   </journal>
+</catalog>

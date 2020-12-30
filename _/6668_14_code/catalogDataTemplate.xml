@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="WINDOWS-1252" ?> 
+ <dataTemplate name="catalogDataTemplate" description="Magazine 
+Catalog" defaultPackage="" Version="1.0">
+ <parameters>
+ <parameter name="id" dataType="character" /> 
+ </parameters>
+ <dataQuery>
+ <sqlStatement name="Q1">
+ <![CDATA[ 
+   SELECT CatalogId, Journal, Publisher, Edition, Title, 
+   Author from OE.CATALOG WHERE CatalogId=:id]]> 
+  </sqlStatement>
+  </dataQuery>
+  <dataStructure>
+  <group name="G_Catalog" source="Q1">
+  <element name="CATALOGID" value="CatalogId" /> 
+  <element name="JOURNAL" value="Journal" /> 
+  <element name="PUBLISHER" value="Publisher"/> 
+  <element name="EDITION" value="Edition" /> 
+  <element name="TITLE" value="Title"/> 
+  <element name="AUTHOR" value="Author" /> 
+  </group>
+  </dataStructure>
+  </dataTemplate>

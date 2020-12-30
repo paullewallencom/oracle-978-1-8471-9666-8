@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog title="Oracle Magazine" publisher="Oracle 
+Publishing"> 
+<journal edition="September-October 2008">
+  <article section="Features">
+    <title>Share 2.0</title>
+    <author>Alan Joch</author> 
+   </article>
+ </journal>
+<journal edition="March-April 2008">
+  <article section="Oracle Developer">
+    <title>Declarative Data Filtering</title>
+    <author>Steve Muench</author> 
+   </article>
+</journal></catalog>

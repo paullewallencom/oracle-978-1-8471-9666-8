@@ -1,0 +1,9 @@
+<catalog title="Oracle Magazine" publisher="Oracle Publishing"> 
+ <journal date="March-April 2008">
+  <article> 
+   <title>Oracle Database 11g Redux</title>
+   <author>Tom Kyte</author>
+  </article>
+ </journal>
+
+</catalog>
